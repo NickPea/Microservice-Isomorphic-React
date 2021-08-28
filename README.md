@@ -1,5 +1,6 @@
 
-# Microservice: Isomorphic React (based on Manning's 'Isomorphic Web Applications')
+# Microservice: Isomorphic React 
+## (based on Manning's 'Isomorphic Web Applications')
 
 Git clone & npm install.
 
